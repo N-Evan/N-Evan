@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nurusshafi Evan</h1>
+<h1 align="center">Hi there 👋, I'm Nurusshafi Evan</h1>
 <h3 align="center">An aspiring individual with great interest in Game Development, 3D modeling and animation. Loves to explore new tech, tinker around with various programming languages and designs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-evan&label=Profile%20views&color=720eb4&style=flat" alt="n-evan" /> </p>
 
-- 🔭 I’m currently working on **PvP Shooter Game**
+- 🔭 I’m currently working on **a PvP Shooter Game**
 
 - 🌱 I’m currently learning **.Net, C#**
 
