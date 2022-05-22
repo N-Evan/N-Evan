@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a PvP Shooter Game**
 
-- 🌱 I’m currently learning **.Net, C#**
+- 🌱 I’m currently learning **ASP.Net Core, C#**
 
 - ⚡ Fun fact **is, "Life goes on."**
 
