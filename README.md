@@ -9,7 +9,7 @@
 <a href="https://fb.com/nurusshafievan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurusshafievan" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **a PvP Shooter Game**
+- 🔭 I’m currently working on **a Top Down Action game**
 
 - 🌱 I’m currently learning **ASP.Net Core, C#**
 
