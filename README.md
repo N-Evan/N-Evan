@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Evan here!</h1>
-<h3 align="center">I'm a gameplay programmer and game designer with over two years of professional experience and had the privilege to work on several amazing games. I love 3D modeling, discovering new music, and coming up with unique gameplay mechanics with the sole purpose of leaving a lasting warm-fuzzy feeling in the minds of players. Feel free to take a look at my portfolio <a href="https://n-evan.github.io/Evan.github.io/" target="_blank">here!</a></h3>
+<h3 align="center">I'm a gameplay programmer and game designer with over three years of professional experience and had the privilege to work on several amazing games. I love 3D modeling, discovering new music, and coming up with unique gameplay mechanics with the sole purpose of leaving a lasting warm-fuzzy feeling in the minds of players. Feel free to take a look at my portfolio <a href="https://n-evan.github.io/Evan.github.io/" target="_blank">here!</a> I've been working as core developer for <a href="https://store.steampowered.com/app/3023460/SILENT_SCREAM_2/">Silent Scream 2!</a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=n-evan&label=Profile%20views&color=720eb4&style=flat" alt="n-evan" /> </p>
 
@@ -9,9 +9,9 @@
   </br>
 </p>
 
-* 🎮 I’m currently working on **Solo RPG Game**
+* 🎮 I’m currently working on **2.D Sidescrolling Adventure Game**
 
-* 🔍 I’m currently learning **Open Source Packaging for Unity, ASP.Net Core, Blender**
+* 🔍 I’m currently learning **Unity DOTS, ASP.Net Core, Vue.js**
 
 * 🍀 Fun fact is, **"This too shall pass."**
 <p>
